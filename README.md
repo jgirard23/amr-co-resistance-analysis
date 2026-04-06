@@ -1,7 +1,7 @@
 AMR Cross-Species Co-Resistance Analysis
 Overview
 
-This project analyzes antimicrobial resistance (AMR) co-resistance patterns across multiple bacterial species using publicly available NCBI Pathogen Detection data. The goal is to identify shared resistance patterns among E. coli, K. pneumoniae, A. baumannii, and P. aeruginosa.
+This project analyzes antimicrobial resistance (AMR) co-resistance patterns across multiple bacterial species using publicly available NCBI Pathogen Detection and BV-BRC data. The goal is to identify shared resistance patterns among E. coli, K. pneumoniae, A. baumannii, and P. aeruginosa for multiple antibiotics across time and regions. 
 
 Data sources:
 
