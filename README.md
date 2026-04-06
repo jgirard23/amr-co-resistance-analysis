@@ -88,9 +88,7 @@ Purpose: Finalizes temporal stability by joining patched IDs with collection yea
 Purpose: Calculates additional trend tests (Cochran-Armitage) and generates the auto-markdown report for meta-analytic ORs.
 
 10. ncbi_validation.py
-Purpose: Validates results via:
-
-1,000 permutation tests to assess significance of observed ORs
+Purpose: Validates results via 1,000 permutation tests to assess significance of observed ORs
 Geographic split analysis (Europe vs Asian/Other isolates)
 
 Notes
